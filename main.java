@@ -14,7 +14,8 @@ public class unicodeCalc {
 		int sum2 = 0;
 		int differenceOfSums = 0;
 
-		// System.out.println("Enter the first line that you would like to unicode: ");
+		System.out.println("Enter the first line that you would like to unicode: ");
+		
 		string1 = scnr.next();
 		char[] string1ToCharArray = string1.toCharArray();
 
